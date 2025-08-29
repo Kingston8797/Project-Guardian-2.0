@@ -2,7 +2,7 @@
 
 ## ISCP 2025 – Real-time PII Defense
 
-### 📖 Challenge Overview
+###  Challenge Overview
 
 This repository contains my solution for the **ISCP 2025 Challenge – Real-time PII Defense (Project Guardian 2.0)**.
 
